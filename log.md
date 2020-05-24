@@ -18,3 +18,13 @@
 **Thoughts:** Very thankful for the matplotlib.org web site full of explanation
 
 **Link to work:** https://github.com/CesareMannino/sin-cosin
+
+
+### Day 2: May 24, 2020 
+##### (Creating a password generator program)
+
+**Today's Progress**: Creating a password generator program using random module and realtives methods.
+
+**Thoughts:** Building it from scratch step by step debugging the trace backs
+
+**Link to work:** https://github.com/CesareMannino/password-generator
