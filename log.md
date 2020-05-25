@@ -28,3 +28,15 @@
 **Thoughts:** Building it from scratch step by step debugging the trace backs
 
 **Link to work:** https://github.com/CesareMannino/password-generator
+
+
+
+### Day 3: May 25, 2020 
+##### (Creating a password generator program)
+
+**Today's Progress**: Still busy creating the password generator program. input with number of letters and number of numbers for the
+password by the user to be configured. Going deep into string module and random module.
+
+**Thoughts:** Password generator already created, but the input of letters and numbers is hard to setup.
+
+**Link to work:** https://github.com/CesareMannino/password-generator
