@@ -40,3 +40,12 @@ password by the user to be configured. Going deep into string module and random 
 **Thoughts:** Password generator already created, but the input of letters and numbers is hard to setup.
 
 **Link to work:** https://github.com/CesareMannino/password-generator
+
+
+### Day 4: May 25, 2020 
+##### (Creating a password generator program)
+
+**Today's Progress**: Password generator with all requirements from the web site codementor.io has been created. new file has been added on github for this last version  
+**Thoughts:** New advanced topic covered the : Python Generator and iterator(refreshed) very powerful method
+
+**Link to work:** https://github.com/CesareMannino/password-generator-adv
