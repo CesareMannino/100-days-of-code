@@ -82,3 +82,22 @@ password by the user to be configured. Going deep into string module and random 
 
 **Link to work:** https://github.com/CesareMannino/hangman
 
+### Day 9: May 30, 2020 
+##### (Creating hangman game & starting an medium/advance course of Prof David Beazley)
+
+**Today's Progress**: Continuing on the hangman game. Since the list comprehension and the whole structure of the program fuond on line is very complicated , I decided to stop. And do a full hands on with practical python programming. It is an advanced course hands on. Full of little program to create.
+**Thoughts:** The course I found is great!
+
+**Link to work:** 
+
+### Day 10: May 31, 2020 
+##### (Full immersion with the course of Prof David Beazley)
+
+**Today's Progress**: All effort to do all the programs requested on this course. I`m planning to cover all subject up to list comprehension and then continuing with the hangman game.
+
+**Thoughts:** very happy with the progress.
+
+**Link to work:** 
+
+
+
